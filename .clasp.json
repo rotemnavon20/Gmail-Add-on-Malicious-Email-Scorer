@@ -1,0 +1,17 @@
+{
+  "scriptId": "1PQvuOKJcEAtkoLimMtk9yk176UWUN9PqLbV8X-aT6FLCVqXLXUZ1bfOt",
+  "rootDir": "frontend",
+  "scriptExtensions": [
+    ".js",
+    ".gs",
+    ".ts"
+  ],
+  "htmlExtensions": [
+    ".html"
+  ],
+  "jsonExtensions": [
+    ".json"
+  ],
+  "filePushOrder": [],
+  "skipSubdirectories": false
+}
